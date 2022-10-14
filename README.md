@@ -1,4 +1,6 @@
-## Me chamo Fabricio, seja bem vindo(a) ao meu perfil.
+<div align="center">
+<h2>Me chamo Fabricio, Seja bem-vindo(a) ao meu perfil.</h2>
+</div></center>
 
 - 🔭 Trainee de C# & .NET 
 - 🌱 Estudando Análise de dados
