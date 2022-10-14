@@ -5,13 +5,10 @@
 - 🔭 Trainee de C# & .NET 
 - 🌱 Estudando Análise de dados
 - 😄 Pronouns: ele/dele
+<br>
 
-<div align="center">
-  <a href="https://github.com/AlmeidaFabricioDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmeidaFabricioDev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaFabricioDev&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-  
+![](https://komarev.com/ghpvc/?username=AlmeidaFabricioDev&color=brightgreen&style=for-the-badge&label=Visitas+ao+meu+Perfil) 
+
 <div align="center">
   <a href="https://github.com/AlmeidaFabricioDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmeidaFabricioDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
