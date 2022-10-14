@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hi, my name is Fabricio. Welcome to my profile.</h2>
-</div>
+</div></center>
 
 - 🔭 C# & .NET Trainee
 - 🌱 Studying Data Analysis from Google
@@ -9,10 +9,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AlmeidaFabricioDev&color=brightgreen&style=for-the-badge&label=Visitors) 
 
-<a href="https://github.com/almeidafabriciodev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=almeidafabriciodev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidafabriciodev&layout=compact&langs_count=7&theme=dark"/>
 
+  <a href="https://github.com/AlmeidaFabricioDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmeidaFabricioDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaFabricioDev&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
