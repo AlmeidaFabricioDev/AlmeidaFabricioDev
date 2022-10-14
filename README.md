@@ -9,10 +9,9 @@
 
 ![](https://komarev.com/ghpvc/?username=AlmeidaFabricioDev&color=brightgreen&style=for-the-badge&label=Visitors) 
 
-<div style="display: inline">
-  <a href="https://github.com/AlmeidaFabricioDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmeidaFabricioDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaFabricioDev&layout=compact&langs_count=7&theme=algolia"/>
+<a href="https://github.com/AlmeidaFabricioDev">
+  <img height="160em " src="https://github-readme-stats.vercel.app/api?username=AlmeidaFabricioDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaFabricioDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
