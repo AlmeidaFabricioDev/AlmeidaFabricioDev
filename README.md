@@ -2,9 +2,9 @@
 <h2>Me chamo Fabricio, Seja bem-vindo(a) ao meu perfil.</h2>
 </div></center>
 
-- 🔭 Trainee de C# & .NET 
-- 🌱 Estudando Análise de dados
-- 😄 Pronouns: ele/dele
+- 🔭 C# & .NET Trainee
+- 🌱 Studying Data Analysis from Google
+- 😄 Pronouns: he/him
 <br>
 
 ![](https://komarev.com/ghpvc/?username=AlmeidaFabricioDev&color=brightgreen&style=for-the-badge&label=Visitas+ao+meu+Perfil) 
