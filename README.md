@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Me chamo Fabricio, Seja bem-vindo(a) ao meu perfil.</h2>
+<h2>Hi, my name is Fabricio. Welcome to my profile.</h2>
 </div></center>
 
 - 🔭 C# & .NET Trainee
