@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 <br>
 
-![](https://komarev.com/ghpvc/?username=AlmeidaFabricioDev&color=brightgreen&style=for-the-badge&label=Visitas+ao+meu+Perfil) 
+![](https://komarev.com/ghpvc/?username=AlmeidaFabricioDev&color=brightgreen&style=for-the-badge&label=Visitors) 
 
 <div align="center">
   <a href="https://github.com/AlmeidaFabricioDev">
