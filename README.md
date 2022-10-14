@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hi, my name is Fabricio. Welcome to my profile.</h2>
-</div></center>
+</div>
 
 - 🔭 C# & .NET Trainee
 - 🌱 Studying Data Analysis from Google
