@@ -25,7 +25,7 @@
   <img align="center" alt="Fabricio-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="right" alt="Fabricio-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/1374338_9ZWQyXl0.png?width=676&height=676">
 </div>
-
+<br>
 <div>
 <a href="https://www.youtube.com/channel/UCmHqpKknJLXJj_BINZb4n9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ofabricioalmeida" target="_bla  nk"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
