@@ -3,7 +3,6 @@
 </div></center>
 
 - 🔭 C# & .NET Trainee
-- 🌱 Studying Data Analysis from Google
 - 😄 Pronouns: he/him
 <br>
 
