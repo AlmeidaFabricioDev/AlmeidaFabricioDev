@@ -29,11 +29,12 @@
 * CI/CD Pipelines
 * Git & GitHub
 
-### Frontend & Others
+### Frontend
 
 * HTML5 / CSS3 / Bootstrap
-* JavaScript
-* MySQL
+* JavaScript / TypeScript
+* React js / Next js
+* Angular
 
 ---
 
