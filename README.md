@@ -7,11 +7,12 @@
 
 ## 🚀 About Me
 
-* 💻 Backend Developer focused on **C# / ASP.NET**
-* ⚙️ Experience building **REST APIs** and scalable systems
-* ☁️ Working with **Azure DevOps**, CI/CD and cloud solutions
-* 📚 Currently improving skills in **Java, Maven and Spring Boot**
-* 🎯 Always focused on writing clean, maintainable and scalable code
+* 💻 Fullstack Developer with focus on **C# / ASP.NET and modern web applications**
+* ⚙️ Experience building **REST APIs**, front-end integrations and scalable systems
+* ☁️ DevOps mindset with hands-on experience in **Azure DevOps, CI/CD pipelines and cloud environments**
+* 📚 Expanding knowledge in **Java, Maven and Spring Boot**
+* 🎯 Committed to writing clean, maintainable and high-performance code
+
 
 ---
 
