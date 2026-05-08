@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Fabricio Almeida</h1>
-  <p><strong>Backend Developer | .NET | Azure DevOps</strong></p>
+  <p><strong>FullStack DevOps Developer | .NET | Azure DevOps| SpringBoot</strong></p>
 </div>
 
 ---
